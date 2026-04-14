@@ -1,2 +1,2 @@
- print("Hello all!")
- print("How are you all!")
+print("Hello all!")
+print("How are you all!")
